@@ -8,3 +8,4 @@ To Do:
 - Send a wol packet
 - Let the user know when the host is live (ping)
 - Make it pretty
+- Make it multithreaded so multiple machines can be started simultaniously
