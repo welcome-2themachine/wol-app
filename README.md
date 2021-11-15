@@ -1,5 +1,5 @@
 # wol-app
-An Android App to send WOL packets to the local network.
+An Android App to send magic wake-on-lan packets to the local network. The goal is to create an all-in-one app to discover the devices on the network by hardware ID, IP, and hostname in order to allow the user to select which machines are configured to allow magic packets.
 
 To Do:
 - Enumerate the network for live IPs
@@ -9,3 +9,4 @@ To Do:
 - Let the user know when the host is live (ping)
 - Make it pretty
 - Make it multithreaded so multiple machines can be started simultaniously
+- Create instructions to setup wake-on-lan
